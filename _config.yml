@@ -1,17 +1,17 @@
 # Site settings
-title: Pixyll
-email: your_email@example.com
-author: John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title: "I make games for food"
+email: contact@monkeymoon.net
+author: "Laurent Victorino"
+description: "Advice, pro-tips, and bananas about the business of video game development."
 baseurl: ""
-url: "http://pixyll.com"
-google_analytics:
-animated: false
+url: "http://lvictorino.com"
+google_analytics: UA-55229677-1
+animated: true
 
 # Build settings
 markdown: kramdown
-permalink: pretty
-paginate: 3
+permalink: date
+paginate: 10
 sass:
   compressed: true
 

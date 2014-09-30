@@ -1,13 +1,27 @@
 ---
 layout: page
-title: Say Hello
+title: Say Hello?
 permalink: /contact/
 ---
 
 <div class="py2">
-  <form action="https://forms.brace.io/johnotander@icloud.com" method="POST" class="form-stacked form-light">
-    <input type="text" name="email" class="input mobile-block" placeholder="Email Address">
-    <textarea type="text" name="content" class="input mobile-block" rows="5" placeholder="What would you like to say?"></textarea>
-    <input type="submit" class="button button-blue button-big mobile-block" value="Say Hello">
+  <p>If you want to say something about this site, or if you just need to contact me, feel free to choose between the two alternatives below.</p>
+
+  <p>Don't forget to follow me on social medias.</p>
+  <h3>Find me on the Internet...</h3>
+  <p>
+    <a style="margin-right:20px;" href="http://www.twitter.com/on_code"><i class="fa fa-twitter-square fa-4x"></i></a>
+    <a style="margin-right:20px;" href="http://plus.google.com/+LaurentVictorino"><i class="fa fa-google-plus-square fa-4x"></i></a>
+    <a style="margin-right:20px;" href="http://gamedev.stackexchange.com/users/2504/lvictorino"><i class="fa fa-stack-exchange fa-4x"></i></a>
+    <a href="https://www.linkedin.com/in/lvictorino"><i class="fa fa-linkedin-square fa-4x"></i></a>
+  </p>
+
+  <h3>...Or drop an email</h3>
+  <form action="https://forms.brace.io/blog@monkeymoon.net" method="POST" class="form-stacked form-light">
+    <input type="hidden" name="_next" value="{{ site.url }}/contact-thanks" />
+    <input type="text" name="email" class="input mobile-block" placeholder="Your Email Address"/>
+    <textarea type="text" name="content" class="input mobile-block" rows="5" placeholder="Say something..."></textarea>
+    <input type="submit" class="button button-blue button-big mobile-block" value="Say Hello"/>
   </form>
+
 </div>
