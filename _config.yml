@@ -1,5 +1,6 @@
 # Site settings
 title: "I make games for food"
+subtitle: Laurent Victorino's blog
 email: contact@monkeymoon.net
 author: "Laurent Victorino"
 description: "Advice, pro-tips, and bananas about the business of video game development."
@@ -10,8 +11,11 @@ animated: true
 
 # Build settings
 markdown: kramdown
-permalink: date
+permalink: /blog/:title
 paginate: 10
+
 sass:
   compressed: true
 
+gems:
+  - jekyll-sitemap

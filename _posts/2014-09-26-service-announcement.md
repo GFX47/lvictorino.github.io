@@ -2,8 +2,9 @@
 layout: post
 title: Service announcement
 date: 2014-09-26 11:21:21
+meta: New personnal blog is here.
 summary: Things are changing here. Please stand by.
-categories: blog
+categories: blog new laurent victorino
 ---
 
 Hey there. Welcome back.

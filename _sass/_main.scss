@@ -306,9 +306,16 @@ h6,
 
 }
 
+  .site-subtitle {
+    font-size: 0.55em;
+    margin-bottom: 0;
+  }
+
+
+
 @media screen and (min-width: 48em) {
   .site-header .site-title {
-    float: left;
+    float: none;
     text-transform: uppercase;
   }
 
