@@ -6,7 +6,6 @@ author: "Laurent Victorino"
 description: "Advice, pro-tips, and bananas about the business of video game development."
 baseurl: ""
 url: "http://lvictorino.com"
-google_analytics: UA-55229677-1
 animated: true
 
 # Build settings
