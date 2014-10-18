@@ -6,7 +6,7 @@ author: "Laurent Victorino"
 description: "Advice, pro-tips, and bananas about the business of video game development by Laurent Victorino."
 baseurl: ""
 url: "http://lvictorino.com"
-animated: true
+animated: false
 
 # Build settings
 markdown: kramdown
