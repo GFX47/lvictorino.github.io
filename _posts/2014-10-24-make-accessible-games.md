@@ -59,6 +59,8 @@ Remember, it's clearly not possible to make games giving an answer to every disa
 
 Be sure to visit [GameAccessibilityGuidelines.com][4] to learn more about accessibilities in games. There you'll find very interesting documents on specific disabilities. A must read!
 
+---
+
 [1]: http://www.grimrock.net/
 [2]: http://i.imgur.com/JgKda.jpg
 [3]: https://twitter.com/AlmostHumanLtd
