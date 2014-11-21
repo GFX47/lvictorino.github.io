@@ -85,6 +85,8 @@ Sometimes learning about random topics can teach you a lot about computer scienc
 
 Curiosity added to time can lead you to an extraordinary new set of knowledge. You just need to push yourself a little bit into new habits to become a better game programmer.
 
+---
+
 [1]: http://en.wikipedia.org/wiki/Robert_A._Heinlein
 [2]: http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=game%20programming%20gems&sprefix=game+programming+g%2Caps&_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=bigsushifm-20 
 [3]: http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_1?s=books&ie=UTF8&qid=1413390419&sr=1-1&keywords=pragmatic+programmer&_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=bigsushifm-20
