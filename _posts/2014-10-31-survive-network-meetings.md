@@ -84,7 +84,7 @@ Ok, the grad can seem mean, but it helps me to remember my first impression. Fir
 
 You will have to meet strangers. Sometimes it will be a matter of surviving. Don't stress too much, the only thing you have to do is to explain how awesome your game is... and follow the rules. Remember that networking can be a real "science" if you want to dig more. Internet will help you. Keep faith, don't be shy, you have nothing to loose. The only thing that could happen would be to actually get some money for your game!
 
-
+---
 
 [^1]: I strongly recommend you to go to these kind of events if you can afford it. You will ALWAYS meet great people and learn a lot.
 
