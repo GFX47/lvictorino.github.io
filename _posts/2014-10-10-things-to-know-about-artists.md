@@ -53,7 +53,7 @@ Programmers and artists (but mainly programmers) often need to hear that what th
 
 We come from different worlds, that is a fact. However our common passion, and a little bit of effort, can help us all to work together in the best possible conditions. Next time you will have to deal with a shiny artist, remember that with a common effort, you should be able to achieve big things.
 
-
+---
 
 [^1]: I never met an artist 100% happy about her work. The famous _twisted artist_ syndrom.
 [^2]: You will say "Git GUI has buttons" and I will say "Commit + Push when you just need Commit in SVN and Perforce can seem as unatural as writing commands".
