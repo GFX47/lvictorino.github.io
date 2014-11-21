@@ -38,7 +38,7 @@ On the other hand, even if gaming cultures are changing, free games making money
 
 Knowing the differences between platforms audience can help you know if a game idea is worth to be developed for a platform or not. Don't forget that if every gamers enjoy games, they, strangely, don't enjoy the same kind of games.
 
-
+---
 
 [^1]: I don't mean, in any way, that a kind of gamers is more respectable than another. I just try to explain the slight difference between them that can greatly impact your game design.
 [^2]: "Forever" means "more than 2 days" in the smartphone world.
