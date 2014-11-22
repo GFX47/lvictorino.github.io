@@ -82,7 +82,7 @@ permalink: /games/
 * [Android][3], [iOS][4]
 * Game Design
 * Programming
-* Art by Yoann Bazoge
+* Art by [Yoann Bazoge][5]
 
 
 
@@ -90,3 +90,4 @@ permalink: /games/
 [2]: http://www.mac-lyon.com/mac/
 [3]: https://play.google.com/store/apps/details?id=com.monkeymoon.switch
 [4]: https://itunes.apple.com/app/id931257656
+[5]: http://www.yoannbazoge.com
