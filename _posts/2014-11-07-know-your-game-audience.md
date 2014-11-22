@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why you should know your game audience
+title: Why you should know your audience game habits
 date: 2014-11-07 12:12:12
 summary: Gaming philosophy and habbits are very platform related. A smartphone gamer won't expect the same than a console gamer. It's important for you to know the difference it makes.
 categories: communication gamers audience
