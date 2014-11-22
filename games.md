@@ -39,15 +39,6 @@ permalink: /games/
 * Game Design
 * Programming
 
-#### Pantone
-
-* 2014
-* 2 hours mini game challenge
-* Android
-* Game Design
-* Programming
-* Art (hahaha!)
-
 #### Where is Neymar and his ball
 
 * 2014
@@ -75,6 +66,27 @@ permalink: /games/
 * Game made with groups of kids (10-15 years old)
 * Using museum themes: Motopoetique
 
+## Mini games made in 2 hours (every Friday a new game)
+
+#### Color Picker
+
+* 2014
+* Android
+* Game Design
+* Programming
+* Art (hahaha!)
+
+#### Switch
+
+* 2014
+* [Android][3], [iOS][4]
+* Game Design
+* Programming
+* Art by Yoann Bazoge
+
+
 
 [1]: http://johanvinet.tumblr.com
 [2]: http://www.mac-lyon.com/mac/
+[3]: https://play.google.com/store/apps/details?id=com.monkeymoon.switch
+[4]: https://itunes.apple.com/app/id931257656
