@@ -63,7 +63,7 @@ All this knowledge is essential and can make you gain a lot of time in your ever
 
 ### Embrass the power of Poo-Poo-Code&trade;
 
-When you have only 24 or 48 hours to make a game you can't mess to much with coding style, code optimization, or consistant performances[^1].
+When you have only 24 or 48 hours to make a game you can't mess too much with coding style, code optimization, or consistant performances[^1].
 
 The goal is to ship a game, not a semi-working-but-perfecty-crafted game.
 
