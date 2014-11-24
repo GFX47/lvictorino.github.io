@@ -77,7 +77,7 @@ Be curious about the other fields of the computing world. Learn a new language a
 
 What works with languages works for everything. Be curious about hardware. Be curious about extreme programming and agile methodologies. 
 
-**Be curious about the oustside world!** 
+**Be curious about the outside world!** 
 
 Sometimes learning about random topics can teach you a lot about computer science. Learning how bees fly can help you with [meta heuristic optimization][11] for example... like [swarm particle optimization][12].
 
