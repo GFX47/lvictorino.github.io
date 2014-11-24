@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why making great games during jam is not enough to run a company
+title: Why making great games during jams is not enough to run a company
 date: 2014-11-14 12:12:12
 summary: Game jams are essential to challenge your creativity but, don't fool yourself, making games during jams can't prepare yourself to running a game studio.
 categories: gamejams business company
