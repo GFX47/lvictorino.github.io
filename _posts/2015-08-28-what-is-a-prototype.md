@@ -27,23 +27,23 @@ Timing is important. If you spend too much time on it you may risk to exhaust yo
 
 ## Don't be perfect, be efficient.
 
-In order to keep the right pace and test what you have to even with a short schedule it's important you don't look for perfection. You have to be efficient. Don't try to have a subtle, optimized and beautiful code. You don't have time for that and there is no point in spending this time on these subject. Make something that works instead that something perfect that will probably work in two years.
+In order to keep the right pace and test what you have even with a short schedule it's important you don't look for perfection. You have to be efficient. Don't try to have a subtle, optimized and beautiful code. You don't have time for that and there is no point in spending this time on these subjects. Make something that works instead of something perfect that will probably work in two years.
 
-After a month of work you might be worry because you end up with something monstruous? An ugly baby with 6 arms and no nose? Great, that's exactly what you were aiming for. As long as what you have done shows the potential of your initial idea and help you understand what the final code architecture should be, you have done a great job. 
+After a month of work you might be worried because you end up with something monstruous? An ugly baby with 6 arms and no nose? Great, that's exactly what you were aiming for. As long as what you have done shows the potential of your initial idea and help you understand what the final code architecture should be, you have done a great job. 
 
-Making something ugly very fast can be a lot of fun! It's so different than the perfectly crafted code you do every day that you might enjoy it a lot. However you should take care to not loose yourself in it. Don't forget that the prototype is just the first phase of the development. The pre-production will follow right after that. Don't ever work that way once the prototype period is over. 
+Making something ugly very fast can be a lot of fun! It's so different than the perfectly crafted code you do every day that you might enjoy it a lot. However you should take care to not lose yourself in it. Don't forget that the prototype is just the first phase of the development. The pre-production will follow right after that. Don't ever work that way once the prototype period is over. 
 
-## Don't loose yourself with awesome new features.
+## Don't lose yourself with awesome new features.
 
-When you work on a new concept it can be very easy to discover new ideas or game mechanics that would perfectly fit your idea while you're developing the game code base. Don't worry it's natural. Natural, but dumb. Don't add anything that wasn't planed to your prototype. Adding something means changing the deadline. Not a good idea. Don't fall into the eternal prototyping pitt. Focus on the core system, and only the core. There are very few chances that your awesome new ideas have an impact on the core mechanics of your game, so there is absolutely no need for them to be in the prototype at all. 
+When you work on a new concept it can be very easy to discover new ideas or game mechanics that would perfectly fit your idea while you're developing the game code base. Don't worry it's natural. Natural, but dumb. Don't add anything that wasn't planed to your prototype. Adding something means changing the deadline. Not a good idea. Don't fall into the eternal prototyping pit. Focus on the core system, and only the core. There are very few chances that your awesome new ideas have an impact on the core mechanics of your game, so there is absolutely no need for them to be in the prototype at all. 
 
-Once your prototype is over, if it sucks and you can't find fun in it, no fancy features will help you, whatever the extra-time you spend adding new things. Your concept sucked. Don't cry. Get over it. Good news is you had spent only one month on it and learnt some new things on the way.
+Once your prototype is over, if it sucks and you can't find fun in it, no fancy features will help you, whatever the extra-time you spend adding new things. Your concept sucked. Don't cry. Get over it. Good news is you have spent only one month on it and learnt some new things on the way.
 
 ## You'll save time by doing everything twice
 
 You might wonder how something as awesome as your game can be built on so ugly foundations. And you're right. It would be silly to try to build a palace of code on a pile of garbage. That's why you will have to trash it all before starting the production.
 
-Oh come on, don't scream about that non-agile idea of trashing things. You have spent a month working on something to be sure that the game you had in mind is possible and has potential. Your goal was to learn what your game concept implied in term of development and to spot tricky points on the way. Now that you know how things have to work to make your game real, rebuilding everything from scratch will be very easy. With your new knowledge you can now rewrite your one monthe prototype within a week.
+Oh come on, don't scream about that non-agile idea of trashing things. You have spent a month working on something to be sure that the game you had in mind is possible and has potential. Your goal was to learn what your game concept implied in term of development and to spot tricky points on the way. Now that you know how things have to work to make your game real, rebuilding everything from scratch will be very easy. With your new knowledge you can now rewrite your one month prototype within a week.
 
 It's important to not see the time invested as something you lose by trashing the prototype code. You should see this as experience gained and a better vision of what the game architecture should be.
 
