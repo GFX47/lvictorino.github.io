@@ -66,7 +66,7 @@ permalink: /games/
 * Game made with groups of kids (10-15 years old)
 * Using museum themes: Motopoetique
 
-## Mini games made in 2 hours (every Friday a new game)
+## Mini games made in 2 hours
 
 #### Color Picker
 
