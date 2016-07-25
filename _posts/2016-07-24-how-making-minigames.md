@@ -6,6 +6,12 @@ meta: Development, game dev, mini games
 summary: It can be very hard to stay focus on the same project for too long. It can be very frustrating to be stuck on a very specific technique, platform, language on your main project while the technical world is constantly changing. Developping mini games can help.
 categories: gamedev minigames
 ---
+
+---
+*Even if this blog is aimed to game developers this particular post and its advice can be applied to any work or field.*
+
+---
+
 A lot of game developers are dedicated people. They have a task to do and they will do it whatever it takes. But making a game is a very time consuming task so a lot of them will simply dive into it and spend several months or years focused on their mission. 
 
 Because of this blind dedication some forget about the outside world and how it keeps spinning and evolving. Worse, some end up totally consumed by their game development with no forces to continue further. Finally, among the luckiest who manage to release their game, a lot end up with absolutely no players to play it because they forgot to build the necesserary audience on the way to success.
@@ -43,12 +49,19 @@ The new followers gained thanks to your mini games  will watch what you do, be i
 
 After the game release, won't you be happy to have an audience composed of more kind of players than what your original niche would have offered?
 
+## A note about danger
+Making mini games offer thrilling experience. Spending time doing mini thing way faster and more easily than your main project is awesome. And even more when you see your audience growing every time you post a piece of new mini game mechanic. 
+
+However take care of not fooling yourself. These should stay mini games with the sole purpose of helping you making a better game. These are not your main project. Don't loose your focus, goals and plans.
+
 ## How to make mini games
 There are tons of different ways to make mini games. One will decide to only spend few hours a week and create a game a week, other will try to make a game a month or more.
 
 There are no rules on how to make mini games. From my personnal experience I find it better when you don't expect too much from these projects. Setting an achievable goal from the beginning is the best way to make it real. Take a 'simple'[^2] game mechanic and change it a little bit to make it yours. Would a Tetris game with inverted gravity be fun? Would a PONG game with an orientable racket be fun? Would multidimensional Snake game be fun? Once you have found the mechanics give you few hours (from 2 to 20) that you will split in short sessions (2 hours sessions are the best to me). Try to find a little bit of time every week to be your special game development moment and stick to this plan! 
 
 Then you will realize that what you get from this apparently wasted time spent doing another thing is, in fact, very profitable to you, your game and your skills.
+
+---
 
 [^1]: Mini games can help you to release the pressure but, please, don't hurt yourself. No games is worth to put you in danger. Go outside. Practice physical activities. See your friends. Read books. Find a hobby...
 [^2]: You should know that there is no 'simple' games, only games so smartly designed that they look simple.
