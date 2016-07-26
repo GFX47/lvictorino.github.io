@@ -3,12 +3,12 @@ layout: post
 title: How mini games can help you make better things
 date: 2016-07-24 12:12:12
 meta: Development, game dev, mini games
-summary: It can be very hard to stay focused on the same project for too long. It can be very frustrating to be stuck on a very specific technique, platform, language on your main project while the technical world is constantly changing. Developping mini games can help.
+summary: It can be very hard to stay focused on the same project for too long. It can be very frustrating to be stuck on a very specific technique, platform, language on your main project while the technical world is constantly changing. Developing mini games can help.
 categories: gamedev minigames
 ---
 
 ---
-*Even if this blog is aimed at game developers, this particular post and its advices can be applied to any work or field.*
+*Even if this blog is aimed at game developers, this particular post and its advice can be applied to any work or field.*
 
 ---
 
@@ -16,7 +16,7 @@ A lot of game developers are dedicated people. They have a task to do and they w
 
 Because of this blind dedication some forget about the outside world and how it keeps spinning and evolving. Worse, some end up totally consumed by their game development with no forces to continue further. Finally, among the luckiest who manage to release their game, a lot end up with absolutely no players to play it because they forgot to build the necesserary audience on the way to success.
 
-Because a lot of dedicated and very busy game developers see time spent developping mini games as a waste of time, they don't see them as the investment they really are. 
+Because a lot of dedicated and very busy game developers see time spent developing mini games as a waste of time, they don't see them as the investment they really are. 
 
 Truth is mini games can sometimes save the whole development of your main game project.
 
@@ -24,7 +24,7 @@ Truth is mini games can sometimes save the whole development of your main game p
 
 We all know what happens when one spends 10+ hours a day, 7 days a week, on the same thing. She end up burned-out or nuts.
 
-It's not sane or safe to spend a complete year on the same thing without any other distraction. Really dedicated developpers can be impressive and force respect, but it's important to not lose yourself into this kind of behaviour. If you waste all your forces and sanity into your game project, who will continue and finish it when you'll be too tired to even go out of bed. Here is a situation where mini games can help[^1].
+It's not sane or safe to spend a complete year on the same thing without any other distraction. Really dedicated developers can be impressive and force respect, but it's important to not lose yourself into this kind of behaviour. If you waste all your forces and sanity into your game project, who will continue and finish it when you'll be too tired to even go out of bed. Here is a situation where mini games can help[^1].
 
 Spending a few hours every week doing something else will help you organize your thoughts and greatly release the pressure accumulated during work. While you will continue making games, in a way, you will have an opportunity to make and see them differently. 
 
@@ -46,7 +46,7 @@ Building an audience for a game is a complex subject that deserves a whole blog 
 
 Let say you're working on a very specific game where players have to design artificial intelligences for killing robots to battle and dominate other players little armies. You will probably believe that your game will only touch a very specific gamer niche. One probably composed of programmers, AI students, engineers...
 
-Now let's say you make several mini games a year and share the result of your work online (Twitter, Facebook, Tumblr, …). There are few chances that your mini games will be related or linked to your main game. These games will probably be very different and, by their different nature, will attract very different kinds of players. The question "Who is the developper behind this very original mini game idea?" will naturally lead the player to your web site where your main game project is explained. 
+Now let's say you make several mini games a year and share the result of your work online (Twitter, Facebook, Tumblr, …). There are few chances that your mini games will be related or linked to your main game. These games will probably be very different and, by their different nature, will attract very different kinds of players. The question "Who is the developer behind this very original mini game idea?" will naturally lead the player to your web site where your main game project is explained. 
 
 The new followers gained thanks to your mini games  will watch what you do, be interested in your game productions, and when you will talk about your main project, they will be ready to discover what you deliver.
 
