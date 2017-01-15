@@ -18,6 +18,7 @@ permalink: /contact/
 
   <h3>...Or drop an email</h3>
   <form action="//formspree.io/blog@monkeymoon.net" method="POST" class="form-stacked form-light">
+    <input type="text" name="_gotcha" style="display:none" />
     <input type="hidden" name="_next" value="{{ site.url }}/contact-thanks" />
     <input type="text" name="email" class="input mobile-block" placeholder="Your Email Address"/>
     <textarea name="content" class="input mobile-block" rows="5" placeholder="Say something..."></textarea>
