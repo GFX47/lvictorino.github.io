@@ -43,9 +43,9 @@ Again, you can’t always be sure that you will be in good conditions to unlock 
 
 Write a checklist. Order it to fit your needs. And use it like an astronaut uses hers before going into space.
 
-## Don’t take it personaly but understand what happened
+## Don’t take it personally but understand what happened
 
-As for everything in the video game business, your great announcement, the one you spent 3 months to build, might not reach a large audience. Before announcing anything you need to hestimate what would be considered as a communication success. If this point is not reached after your news has been sent to the world you need to take a moment and try to figure what happened. 
+As for everything in the video game business, your great announcement, the one you spent 3 months to build, might not reach a large audience. Before announcing anything you need to estimate what would be considered as a communication success. If this point is not reached after your news has been sent to the world you need to take a moment and try to figure what happened. 
 
 ### Was the timing good?
 
