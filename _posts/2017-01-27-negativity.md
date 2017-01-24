@@ -9,7 +9,7 @@ categories: advice mood general
 
 ## The inside enemy
 
-Being positive is good for mental health and for life in general. [It's a well known fact](https://www.youtube.com/watch?v=fLJsdqxnZb0). However the production of a game can take times. Staying positive on the long run is very difficult and almost impossible for a lot of people. 
+Being positive is good for mental health and for life in general. [It's a well known fact](https://www.youtube.com/watch?v=fLJsdqxnZb0). However the production of a game can take time. Staying positive on the long run is very difficult, almost impossible for a lot of people. 
 
 First of all it's always better if you don't dive into this adventure alone. Having a team you can count on will help you to avoid the usual negativity that comes with the loneliness. When you are alone, you are your own boss. You make all the important decisions. And when you're not happy or have doubts about the project there is no one to remind you all the great things you achieved so far. Always share your thoughts when you feel they prevent you of doing a great job. Create a link of truth with your teammates. You will soon realize they can understand and help you feeling lighter. 
 
@@ -38,7 +38,7 @@ To keep the pace with your game it's important to create a virtuous circle. Talk
 
 ## In the end
 
-Making a is difficult enough to not dive into an infinite hole of negativity. Always remember your game strengths, fit to your initial plan and use the positivity of your future players to release the best game possible.
+Making a game is difficult enough to not dive into an infinite hole of negativity. Always remember your game strengths, fit to your initial plan and use the positivity of your future players to release the best game possible.
 
 ---
 [^1]: it's not something I encourage you to do but I sometimes enjoy answering very nicely in the comment section when someone is virulent about a game I did. Usually people's tone change to become nicer and calmer. But, again, don't do this. It's stupid, you won't ever change someone who is dumb enough to don't understand that games are made by people.
